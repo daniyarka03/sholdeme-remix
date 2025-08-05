@@ -1,0 +1,9 @@
+<!-- Placeholder SVG for coffee images -->
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="8" fill="#F3F4F6"/>
+  <path d="M30 25h20c2.2 0 4 1.8 4 4v20c0 6.6-5.4 12-12 12s-12-5.4-12-12V29c0-2.2 1.8-4 4-4z" stroke="#9CA3AF" stroke-width="2" fill="none"/>
+  <path d="M54 35h4c2.2 0 4 1.8 4 4v4c0 2.2-1.8 4-4 4h-4" stroke="#9CA3AF" stroke-width="2" fill="none"/>
+  <path d="M30 55h20" stroke="#9CA3AF" stroke-width="2"/>
+  <circle cx="35" cy="35" r="2" fill="#D1D5DB"/>
+  <circle cx="45" cy="35" r="2" fill="#D1D5DB"/>
+</svg>

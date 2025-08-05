@@ -13,7 +13,7 @@ export const meta: MetaFunction = () => {
   ];
 };
 
-export default function Index() {
+export default function Landing() {
   return (
     <div className="min-h-screen">
       <Navigation />
@@ -25,5 +25,3 @@ export default function Index() {
     </div>
   );
 }
-
-
